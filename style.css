@@ -1,4 +1,12 @@
-
+#right-answer{
+  position: absolute;
+  display: flex;
+  background-color: #6200EA;
+  width: 166px;
+  height: 44px;
+  top: 50%;
+  left: 50%;
+}
 header{
   background-color:#6200EA;
   width: 100%;
