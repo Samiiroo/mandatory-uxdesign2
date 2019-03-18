@@ -1,4 +1,3 @@
-// document.querySelectorAll("input[data-correct=true]:checked").length
 let dehaze = document.querySelector('.material-icons');
 let dialog = document.getElementById('right-answer');
 let headerTitel= document.querySelector('h1');
